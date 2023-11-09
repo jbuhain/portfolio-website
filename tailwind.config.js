@@ -6,7 +6,10 @@ export default {
     extend: {
       fontFamily: {
         inter: ['inter', 'serif'],
-      }
+      }, 
+      colors: {
+        beige: '#fcfcfb', // Add your preferred beige color code
+      },
     },
   },
   plugins: [],
