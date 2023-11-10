@@ -6,7 +6,6 @@ import Portfolio from './components/Portfolio.jsx';
 import Timeline from './components/Timeline.jsx';
 
 
-
 function App() {
   const [theme, setTheme] = useState(null);
 
@@ -73,7 +72,7 @@ function App() {
         {theme === 'dark' ? sun : moon}
 
       </button>
-      <div className="bg-beige dark:bg-stone-900 text-stone-900 dark:text-stone-300 min-h-screen font-inter">
+      <div className="bg-beige dark:bg-forest text-stone-900 dark:text-stone-300 min-h-screen font-inter">
         <div className='max-w-5xl w-11/12 mx-auto'>
           <Intro />
           <Portfolio />

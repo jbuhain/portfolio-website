@@ -8,7 +8,8 @@ export default {
         inter: ['inter', 'serif'],
       }, 
       colors: {
-        beige: '#fcfcfb', // Add your preferred beige color code
+        beige: '#eec33d', // Add your preferred beige color code
+        forest: '#1e2124 ',
       },
     },
   },
