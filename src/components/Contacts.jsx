@@ -38,7 +38,7 @@ function Contacts() {
                         className='text-center inline-block border-black group relative h-12 w-48 overflow-hidden rounded-lg bg-gray-800 dark:bg-yellow-500 text-lg shadow transition-colors duration-100 hover:bg-gray-600 dark:hover:bg-yellow-600'
                     >
 
-                        <span class="text-center inline-block px-8 py-3 w-max text-base font-medium rounded-md text-white drop-shadow-md">
+                        <span class="text-center inline-block px-8 py-3 w-max text-base font-medium rounded-md text-white dark:text-black drop-shadow-md">
                             Send Message
                         </span>
                     </button>
